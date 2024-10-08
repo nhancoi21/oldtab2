@@ -36,8 +36,6 @@
     <div class="container-lg px-3 my-5 markdown-body">
       
       <h1><a href="https://nhancoi21.github.io/oldtab2/">Thời Báo Sư Phạm</a></h1>
-
-      <p>&lt;!DOCTYPE html&gt;</p>
       <html>
       <head> 
       <title> Thời Báo Sư Phạm </title>
