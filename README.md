@@ -47,7 +47,7 @@
       <ul>
       	<li id="xd"><img src="favicon.jpg" style="width:40px;height:40px;padding:20px;" /></li>
       	<li><a href="trangchu.html" target="iframe1">Trang chủ</a></li>
-      	<li><a href="https://drive.google.com/file/d/18VR0yA5Y5muPa-DVMGEafR1gKPzRxQ1d/view" target="iframe1">About</a></li>
+      	<li><a href="rickroll2.mp4" target="iframe1">About</a></li>
       </ul>
       <table>
       	<tr>
