@@ -47,11 +47,11 @@
       <ul>
       	<li id="xd"><img src="favicon.jpg" style="width:40px;height:40px;padding:20px;" /></li>
       	<li><a href="trangchu.html" target="iframe1">Trang chủ</a></li>
-      	<li><a href="About.html" target="iframe1">About</a></li>
+      	<li><a href="https://drive.google.com/file/d/18VR0yA5Y5muPa-DVMGEafR1gKPzRxQ1d/view" target="iframe1">About</a></li>
       </ul>
       <table>
       	<tr>
-      		<th style="width:10vh;text-decoration: none;">
+      		<th style="width:10%;text-decoration: none;">
       <div style="list-style-type:none;overflow:hidden;">
       		<div> a</div>
       		<div> a</div>
@@ -61,7 +61,7 @@
       </th>
       <th style="width:100vh;">
       <p id="bao">
-      <iframe src="trangchu.html" name="iframe1" style="width:100vh;height:100vh;background-color:#ffffff" frameborder="0"></iframe>
+      <iframe src="trangchu.html" name="iframe1" style="width:100%;height:100%;background-color:#ffffff" frameborder="0"></iframe>
       </p>
       </th>
       </tr>
