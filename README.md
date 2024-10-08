@@ -51,7 +51,7 @@
       </ul>
       <table>
       	<tr>
-      		<th style="width:10%;text-decoration: none;">
+      		<th style="width:10vh;text-decoration: none;">
       <div style="list-style-type:none;overflow:hidden;">
       		<div> a</div>
       		<div> a</div>
@@ -59,9 +59,9 @@
       		<div> a</div>
       </div>
       </th>
-      <th style="width:100%;">
+      <th style="width:100vh;">
       <p id="bao">
-      <iframe src="trangchu.html" name="iframe1" style="width:100%;height:100%;background-color:#ffffff" frameborder="0"></iframe>
+      <iframe src="trangchu.html" name="iframe1" style="width:100vh;height:100vh;background-color:#ffffff" frameborder="0"></iframe>
       </p>
       </th>
       </tr>
